@@ -1,1 +1,3 @@
-A user friendly beautifully designed dashboard created over a Dataset taken from the online repository of datasets and analyzed the data finding insights into the data.
+DATA_ANALYSIS_PROJECT
+Created a user friendly dashboard using Microsoft power BI detailing all the features from the data for valuable insights.
+Done EDA over the dataset in python as well using python pandas, numpy, matplotlib & seaborn.
